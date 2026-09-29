@@ -1,0 +1,15 @@
+{
+	"name": "adf-caresysnc",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a13e0efb-fd44-4d25-a6ea-2d19fa95a620",
+		"tenantId": "857d3401-b761-4a42-b7ea-b67dee764208"
+	}
+}
